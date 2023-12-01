@@ -1,0 +1,2 @@
+# baitulmaal
+Friends financial pool
