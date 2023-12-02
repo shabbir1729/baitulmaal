@@ -1,2 +1,2 @@
 # baitulmaal
-Friends financial pool
+Friends financial pool as a credit card replacement
